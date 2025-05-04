@@ -9,6 +9,6 @@ Di dalam repositori ini, ada berbagai aset yang digunakan dalam pengembangan dan
 
 ## 📷 Screenshot
 
-![varavel](../assets/v.png)
+![varavel](/assets/v.png)
 
 ---
